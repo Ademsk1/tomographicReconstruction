@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 13 13:24:36 2021
 
-@author: iox36199
-"""
 
 
 
